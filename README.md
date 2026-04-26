@@ -16,6 +16,10 @@ tags: ["guides", "browser extensions", "video downloads"]
 
 # How to Download Wistia Videos for Free with the chrome browser extension method
 
+<a href="https://www.youtube.com/watch?v=H4nU0cTm8TY" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-wistia-videos-for-free-chrome-extension-method.jpg" width="700px">
+</a>
+
 
 Wistia Video Downloader is a browser extension that scans the current page for Wistia videos and lets you save authorized videos as MP4 files.
 
@@ -29,9 +33,7 @@ Wistia Video Downloader detects Wistia videos after they load in your browser an
 
 Verified repository:
 
-```text
-https://github.com/serpapps/wistia-video-downloader
-```
+[serpapps/wistia-video-downloader](https://github.com/serpapps/wistia-video-downloader)
 
 ## Before You Start
 
